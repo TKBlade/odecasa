@@ -1,4 +1,4 @@
-![Odecasa](https://i3.ytimg.com/vi/b6Zb7xmvUtk/maxresdefault.jpg)
+![Odecasa](https://i3.ytimg.com/vi/b6Zb7xmvUtk/maxresdefault.jpg) 
 
 *Ôdecasa é uma plataforma de compartilhamento de acomodações, conectando viajantes a experiências autênticas em todo o Brasil* 🧳🏠✨. 
 
