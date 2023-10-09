@@ -1,10 +1,6 @@
-![Odecasa](https://i3.ytimg.com/vi/b6Zb7xmvUtk/maxresdefault.jpg)]
+![Odecasa](https://i3.ytimg.com/vi/b6Zb7xmvUtk/maxresdefault.jpg)
 
 *Ôdecasa é uma plataforma de compartilhamento de acomodações, conectando viajantes a experiências autênticas em todo o Brasil* 🧳🏠✨. 
-
-## 📍  Sobre o projeto
-
-Projeto construído para a certificação *Professional Developer*, do curso **Certified Tech Developer**, da [Digital House](https://digitalhouse.com/br). 
 
 ![Homepage](https://github.com/TKBlade/odecasa/raw/main/FrontEnd/projeto/projetoIntegrador/public/odcs.png)
 
